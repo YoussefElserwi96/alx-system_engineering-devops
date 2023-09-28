@@ -1,2 +1,2 @@
-ifsd
-
+#!/bin/bash
+pwd
